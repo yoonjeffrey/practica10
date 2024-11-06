@@ -11,3 +11,4 @@ class Terricola extends Personaje implements Destruible{
         return "Terrícola: " + nombre;
     }
 }
+

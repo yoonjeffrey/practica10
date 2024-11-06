@@ -15,4 +15,9 @@ class Bomba extends Elemento implements Destruible {
     public String destruir() {
         return "Bomba destruida";
     }
+
+    public int getRadio() {
+        return radio;
+    }
 }
+
